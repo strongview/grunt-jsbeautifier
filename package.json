@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "grunt": ">=0.4.1",
-        "js-beautify": ">=1.4.2",
+        "js-beautify": "git://github.com/strongview/js-beautify#wrap/attributes",
         "lodash": ">=2.4.1",
         "underscore.string": ">=2.3.3"
     },
